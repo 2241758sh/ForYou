@@ -1,2 +1,1 @@
-# ForYou
-This is a code to impress your girl bestfriends ..... 
+# For-Friend
